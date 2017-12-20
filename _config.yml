@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      John Doe
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "https://evlcodr.github.com/"
+url:         "https://evlcodr.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google analytics
