@@ -1,17 +1,17 @@
 # Site settings
-title:       Pixyll
+title:       Evlcodr
 email:       your_email@example.com
-author:      John Otander
+author:      John Doe
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://evlcodr.github.com/"
 date_format: "%b %-d, %Y"
 
 # Google analytics
-google_analytics: UA-53548208-1
+google_analytics:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
